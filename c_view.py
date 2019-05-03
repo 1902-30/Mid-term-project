@@ -1,5 +1,7 @@
 """
 还需要一个在游戏外（大厅·）的提示框
+git remote add origin https://github.com/projectmid/Mid-term-project.git
+ git push -u origin master
 """
 
 
